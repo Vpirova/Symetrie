@@ -27,5 +27,5 @@ Fichiers du projet :
 
 Dépendances :
 -------------
-Voir `requirements.txt` – installation rapide avec :
+Voir `biblio.txt` – installation rapide avec :
     pip install -r requirements.txt
