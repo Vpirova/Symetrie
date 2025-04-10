@@ -4,7 +4,7 @@ Date : [10/04/2025]
 
 Description :
 -------------
-Ce programme permet d’analyser les éléments de symétrie d’une molécule à partir de son nom IUPAC. Il convertit le nom en SMILES, génère une géométrie 3D approximative, puis identifie les axes de rotation, plans de symétrie et centres d'inversion.
+Ce programme permet d’analyser les éléments de symétrie d’une molécule à partir de son nom IUPAC. Il convertit le nom en SMILES, génère une géométrie 3D approximative du conformère le plus stable, puis identifie les axes de rotation, plans de symétrie et centres d'inversion.
 
 Utilisation :
 -------------
