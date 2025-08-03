@@ -28,4 +28,4 @@ Fichiers du projet :
 Dépendances :
 -------------
 Voir `biblio.txt` – installation rapide avec :
-    pip install -r requirements.txt
+    pip install -r biblio.txt
