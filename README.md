@@ -29,3 +29,9 @@ Dépendances :
 -------------
 Voir `biblio.txt` – installation rapide avec :
     pip install -r biblio.txt
+N.B 17/09/2025 
+![status](https://img.shields.io/badge/Status-PANNE%20CONNUE-red)
+
+> 🔴 **Origine — Conversion IUPAC → SMILES**  
+> La conversion repose sur PubChemPy (requêtes en ligne vers PubChem). En cas de problème réseau/SSL ou de réponse vide, la fonction renvoie `None` et le script s’arrête (ex. « cyclohexane »). **Contournement provisoire :** saisir directement un SMILES (`C1CCCCC1`). Un correctif multi-fallback (OPSIN/NIH Cactus + petit dictionnaire local) sera intégré plus tard.
+
