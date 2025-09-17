@@ -29,6 +29,8 @@ Dépendances :
 -------------
 Voir `biblio.txt` – installation rapide avec :
     pip install -r biblio.txt
+-------------
+    
 N.B 17/09/2025 
 ![status](https://img.shields.io/badge/Status-PANNE%20CONNUE-red)
 
